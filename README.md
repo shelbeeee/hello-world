@@ -3,4 +3,4 @@ Getting started
 
 Hello there,
 
-Learning how to code with the wonderful Nassar today. :)
+Learning how to code with the sensible Nassar today. :)
